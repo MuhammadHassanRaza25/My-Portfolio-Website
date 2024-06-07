@@ -145,7 +145,8 @@ body{
 }
 .card{
     border: 3px solid white;
-    border-radius: 2.4%;
+    /* border-radius: 2.4%; */
+    border-radius: 15px;
     width: 355px!important;
     height: 390px;
     transition: all 0.5s;
@@ -165,6 +166,8 @@ body{
 .card img{
     width: 100%;
     height: 200px;
+    border-top-right-radius: 13px;
+    border-top-left-radius: 13px;
 }
 /* Services Section End */
 
@@ -274,7 +277,7 @@ body{
 .projectcardsrow1 .card{
   text-align: center;
 }
-.projectcardsrow2{
+/* .projectcardsrow2{
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -282,7 +285,7 @@ body{
 }
 .projectcardsrow2 .card{
   text-align: center;
-}
+} */
 /* Projects Section End */
 
 /* Contact Section Start */
