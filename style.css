@@ -277,7 +277,7 @@ body{
 .projectcardsrow1 .card{
   text-align: center;
 }
-/* .projectcardsrow2{
+.projectcardsrow2{
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -285,7 +285,7 @@ body{
 }
 .projectcardsrow2 .card{
   text-align: center;
-} */
+}
 /* Projects Section End */
 
 /* Contact Section Start */
