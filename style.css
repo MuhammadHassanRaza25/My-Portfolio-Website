@@ -268,6 +268,11 @@ body{
 }
 .PROJECTCARDS .card-text{
     font-weight: 500;
+    height: 8vh;
+    overflow: scroll;
+}
+.PROJECTCARDS .card-text::-webkit-scrollbar{
+    display: none;
 }
 .projectcardsrow1{
     display: flex;
